@@ -13,7 +13,7 @@ public interface APIService {
     @Headers(
             {
                     "Content-Type:application/json",
-                    "Authorization:key=AAAAjb__EUM:APA91bFFbKFggcp9b-1yh1PfwMrnsDwIkRwd9bho53yRhvSjs61HXLYqn1M38YK_WQb3s7sSs8gKBxDumwHntwy0xZgn93_GNAwzkdjfdWAcZWztKB_bXwj5dTq8UJpA8nmiuH2BvLoX"
+                    "Authorization:key="
             }
             )
     @POST("fcm/send")
