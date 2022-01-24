@@ -1,0 +1,119 @@
+[
+  {
+    "id": "35ca7a58-7624-43cf-9789-94aa8722fb34",
+    "data": [
+      {
+        "text": "How many",
+        "meta": "@Word-Remain",
+        "alias": "Word-Remain",
+        "userDefined": false
+      },
+      {
+        "text": " RTX ",
+        "userDefined": false
+      },
+      {
+        "text": "3060",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "remain",
+        "meta": "@Word-Remain",
+        "alias": "Word-Remain",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcd9fd0e-28d6-453a-9ba0-4a46fac23128",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "inventory",
+        "meta": "@Word-Remain",
+        "alias": "Word-Remain",
+        "userDefined": true
+      },
+      {
+        "text": " of Intel G",
+        "userDefined": false
+      },
+      {
+        "text": "4560",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be81bd0f-a5a7-41cc-a98a-d080801e0ea9",
+    "data": [
+      {
+        "text": "How many",
+        "meta": "@Word-Remain",
+        "alias": "Word-Remain",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "i3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cpu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "remain",
+        "meta": "@Word-Remain",
+        "alias": "Word-Remain",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

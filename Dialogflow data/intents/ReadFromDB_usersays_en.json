@@ -1,0 +1,28 @@
+[
+  {
+    "id": "4bf49173-246d-4eb8-a505-a54ceee36797",
+    "data": [
+      {
+        "text": "read",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc381e8d-96fb-4b15-815f-3c45d49de51e",
+    "data": [
+      {
+        "text": "Read From DB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

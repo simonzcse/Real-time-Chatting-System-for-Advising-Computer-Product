@@ -1,0 +1,95 @@
+[
+  {
+    "id": "9f0af2e5-4d4f-4d3e-a869-45714ffc9d35",
+    "data": [
+      {
+        "text": "real human",
+        "meta": "@realStaff",
+        "alias": "realStaff",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56800686-1fc6-4a71-ba00-ffef4f45d48b",
+    "data": [
+      {
+        "text": "Call ",
+        "userDefined": false
+      },
+      {
+        "text": "real staff",
+        "meta": "@realStaff",
+        "alias": "realStaff",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72916627-5053-4c53-a2ba-6791e7dc0fed",
+    "data": [
+      {
+        "text": "Human hand over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf1c638b-3cfc-4153-90df-56aec52b185f",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "real staff",
+        "meta": "@realStaff",
+        "alias": "realStaff",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4478f3e8-4c0d-4fe1-8507-72f64354c858",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "real staff",
+        "meta": "@realStaff",
+        "alias": "realStaff",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

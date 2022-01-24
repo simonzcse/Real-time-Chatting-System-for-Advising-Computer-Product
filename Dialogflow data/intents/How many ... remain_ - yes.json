@@ -1,0 +1,56 @@
+{
+  "id": "4fa9e597-b963-4ae4-a16a-3f7936f1b3e2",
+  "parentId": "d6e0df03-6405-44f6-aab7-7f2c745f07e7",
+  "rootParentId": "d6e0df03-6405-44f6-aab7-7f2c745f07e7",
+  "name": "How many ... remain? - yes",
+  "auto": true,
+  "contexts": [
+    "Howmanyremain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Howmanyremain.Howmanyremain-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f9701422-7eaa-4a66-9e04-5875dd1d5139",
+          "name": "productName",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$productName",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What product do you want me to check?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

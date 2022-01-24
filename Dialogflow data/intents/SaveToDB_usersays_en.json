@@ -1,0 +1,59 @@
+[
+  {
+    "id": "cce2ddce-23f0-4500-9298-e26295bb92ba",
+    "data": [
+      {
+        "text": "save the data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f0a2655-290b-44c5-8154-46f79fbd3476",
+    "data": [
+      {
+        "text": "save to ",
+        "userDefined": false
+      },
+      {
+        "text": "db",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de20a868-cd8a-48ac-b0d5-16b6061093eb",
+    "data": [
+      {
+        "text": "save to database",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ed99946-3fa8-4997-8590-db81df51a6c5",
+    "data": [
+      {
+        "text": "save it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "d6e0df03-6405-44f6-aab7-7f2c745f07e7",
+  "name": "How many ... remain?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Howmanyremain-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bb224924-d9a6-4bf1-98da-48578a5d5a7e",
+          "name": "Word-Remain",
+          "required": false,
+          "dataType": "@Word-Remain",
+          "value": "$Word-Remain",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Do you want me to check the number of product in store?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

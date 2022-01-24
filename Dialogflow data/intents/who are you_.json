@@ -1,0 +1,37 @@
+{
+  "id": "f4b5fe67-8b0c-41cb-81cf-06fa10d87a3f",
+  "name": "who are you?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am a chatbot and I am here to help you.",
+            "I am a  chatbot. If you have any question, just ask me!",
+            "I am a chatbot! I have helped a lot of visiter here. Try?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

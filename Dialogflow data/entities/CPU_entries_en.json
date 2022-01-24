@@ -1,0 +1,44 @@
+[
+  {
+    "value": "G4560",
+    "synonyms": [
+      "G4560"
+    ]
+  },
+  {
+    "value": "Intel core",
+    "synonyms": [
+      "Intel core"
+    ]
+  },
+  {
+    "value": "i3",
+    "synonyms": [
+      "i3"
+    ]
+  },
+  {
+    "value": "i5",
+    "synonyms": [
+      "i5"
+    ]
+  },
+  {
+    "value": "i7",
+    "synonyms": [
+      "i7"
+    ]
+  },
+  {
+    "value": "i9",
+    "synonyms": [
+      "i9"
+    ]
+  },
+  {
+    "value": "CPU",
+    "synonyms": [
+      "CPU"
+    ]
+  }
+]

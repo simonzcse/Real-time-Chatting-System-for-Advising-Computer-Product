@@ -1,0 +1,28 @@
+[
+  {
+    "id": "7c844732-a737-4988-b317-ee08afa040f4",
+    "data": [
+      {
+        "text": "Give me the most economical GPU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "044c841c-1c1b-403e-a13f-375c62ca03f1",
+    "data": [
+      {
+        "text": "which GPU do you recommend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "17aa968a-006f-467e-bedc-13c4fd73bcfa",
+  "name": "Word-Remain",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

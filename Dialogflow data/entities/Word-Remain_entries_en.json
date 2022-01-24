@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Remain",
+    "synonyms": [
+      "Remain"
+    ]
+  },
+  {
+    "value": "leave",
+    "synonyms": [
+      "leave"
+    ]
+  },
+  {
+    "value": "in store",
+    "synonyms": [
+      "in store"
+    ]
+  },
+  {
+    "value": "inventory",
+    "synonyms": [
+      "inventory"
+    ]
+  },
+  {
+    "value": "How many",
+    "synonyms": [
+      "How many"
+    ]
+  }
+]

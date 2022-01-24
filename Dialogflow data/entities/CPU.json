@@ -1,0 +1,9 @@
+{
+  "id": "5ac50a1c-9bbd-4a11-a67e-7caed10c6bda",
+  "name": "CPU",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

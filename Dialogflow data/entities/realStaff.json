@@ -1,0 +1,9 @@
+{
+  "id": "72eb4f38-a5c3-42bf-84d8-edeb3c40acf9",
+  "name": "realStaff",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

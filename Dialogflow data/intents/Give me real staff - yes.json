@@ -1,0 +1,39 @@
+{
+  "id": "5094ff08-95ac-429c-901c-dc13c997cce0",
+  "parentId": "62a9c297-130c-45d3-ad48-055d3b412257",
+  "rootParentId": "62a9c297-130c-45d3-ad48-055d3b412257",
+  "name": "Give me real staff - yes",
+  "auto": true,
+  "contexts": [
+    "Givemerealstaff-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Givemerealstaff.Givemerealstaff-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Connecting... Please wait!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
